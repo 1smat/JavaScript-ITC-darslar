@@ -4,7 +4,8 @@
 
 ;[
   {
-    name: '',
-    rasmUrl: '',
+    name: 'Name',
+    username: 'Username',
+    rasmUrl: 'https://unsplash.com/photos/1',
   },
 ]
