@@ -8,8 +8,7 @@ fetch('https://jsonplaceholder.typicode.com/photos')
     // document.getElementById('name').textContent = data[0].name
     // document.getElementById('username').textContent = data[0].username
     // document.getElementById('phone').textContent = data[0].phone
-    document.getElementById('image').src =
-      'https://via.placeholder.com/600/92c952'
+    document.getElementById('image').src = 'image.webp'
   })
 
 const user = {
