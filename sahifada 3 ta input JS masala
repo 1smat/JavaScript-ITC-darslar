@@ -1,0 +1,55 @@
+sahifada 3 ta input bo'sin va 1 ta createUser button bolsin
++ label bo'sin
+inputlar  ismi, familiyasi, yoshini olamiz
+
+js da 
+factory function bo'ladi
+unda inputlarda kelgan malumotlarni bitta object ga jigamiz
+
+createUser tugmasi bosilganda factory function qaytargan object dagi
+malumotlar asosida (ismi, familiyasi, yoshi) html da 
+
+person class li div ichida
+
+ismi h1 
+familiyasi h2 
+yoshi h3 da 
+browserda hosil bo'lsin
+
+
+
+button -> createUser(ism, familiya, yosh)
+return user
+
+kiritilgan malumotlar asosida
+
+div ichida userni cardi yaratilsin
+
+
+==================================================
+
+h1 = document.createElement
+
+h1.innerHTML = createUser(name, lastName, age).name
+h2.inner = createUser(name, lastName, age).lastName
+
+
+
+
+
+
+
+html da 2 ta input 
+
+1.carName
+2.carYear
+
+
+
+js da 
+
+1. car arrayini yasimiz
+
+u arrayga html dagi 2 ta inputdan kelgan malumotlarni joylashtiramiz
+
+log(car)
