@@ -53,3 +53,22 @@ js da
 u arrayga html dagi 2 ta inputdan kelgan malumotlarni joylashtiramiz
 
 log(car)
+
+
+
+// uPost
+
+input bor => tovar nomini kiritamiz
+input bor => tovar narxini kiritamiz
+
+button bor add nomli, u bosilganda yuqoridagi inputlardan kelgan malumotlar
+tovar objectiga yozilishi kerak, localStorage ga yozish kerak
+
+
+mahsulotarlarni ko'rish nomli button bosilganda biz qo'shgan tovarlar
+nomi va narxi brauzerda ko'rinishi kerak + css
+
+
+
+// timer yashash
+

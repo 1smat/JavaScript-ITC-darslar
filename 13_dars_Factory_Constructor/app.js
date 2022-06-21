@@ -48,3 +48,6 @@ const person = {
 // console.log(programmerPY)
 
 ц
+
+
+
